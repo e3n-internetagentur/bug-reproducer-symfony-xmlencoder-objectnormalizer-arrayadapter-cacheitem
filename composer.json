@@ -8,6 +8,9 @@
         "symfony/console": "4.1.*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "4.1.*",
+        "symfony/property-access": "4.1.*",
+        "symfony/property-info": "4.1.*",
+        "symfony/serializer": "4.1.*",
         "symfony/yaml": "4.1.*"
     },
     "require-dev": {

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='WINDOWS-1252'?>
+<somenode triggers="bug">
+    <somesubnode>
+        <test1 attribute1="hello">foo bar</test1>
+        <test2>bar baz</test2>
+    </somesubnode>
+</somenode>
